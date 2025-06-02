@@ -19,7 +19,7 @@ This project is the final project of Udacity's Frontend Developer Nanodegree pro
 
 ### Step 2: Clone the repo
 
-    `git clone https://github.com/afroisaac/NLPonBlogPosts.git`
+    `git clone https://github.com/it-awonugba/evaluate-news-nlp.git`
 
 ### Step 3: `cd` into `NLPonBlogPosts` and run:
 
